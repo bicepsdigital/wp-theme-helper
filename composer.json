@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "bicepsdigital/bicepstest": "^1.1"
+    }
+}
