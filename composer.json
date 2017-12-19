@@ -1,5 +1,26 @@
 {
+    "name": "bicepsdigital/wp-theme-helper",
+    "keywords": [
+        "wp",
+        "theme",
+        "helper",
+        "classes",
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Lysek",
+            "email": "tomas@bicepsdigital.com",
+            "homepage": "http://www.bicepsdigital.com",
+            "role": "Developer"
+        }
+    ],
     "require-dev": {
-        "bicepsdigital/bicepstest": "^1.1"
+        "bicepsdigital/bicepstest": "^1.1.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
     }
 }
